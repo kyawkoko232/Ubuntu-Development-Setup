@@ -16,7 +16,7 @@
 
  4. ကိုယ်လိုချင်တဲ့ Python Version ကို apt ကနေတစ်ဆင့်သွင်းနိုင်ပါပြီခုလောလောဆယ်တော့ Python 3.10 ထိထွက်ထားပါပြီ
 
-   ` sudo apt install python3.10 -y`
+   ```sudo apt install python3.10 -y```
 
        `python3 --version`  ဖြင့်ကိုယ့်Python Code ကိုစစ်ဆေးကြည့်နိုင်ပါပြီ။
 
