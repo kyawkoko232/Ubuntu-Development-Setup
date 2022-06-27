@@ -22,5 +22,6 @@
          sudo apt install python3.10 -y
 
 
+[Python](https://github.com/kyawkoko232/Ubuntu-Development-Setup/blob/master/Python.md "Python")
 
 
