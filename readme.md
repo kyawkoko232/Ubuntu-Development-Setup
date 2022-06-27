@@ -14,7 +14,7 @@
  yes or no တောင်းရင် -y ထည့်ပေးပါ။
 
 
-    sudo add-apt-repository ppa:deadsnakes/ppa
+        sudo add-apt-repository ppa:deadsnakes/ppa
 
  4. ကိုယ်လိုချင်တဲ့ Python Version ကို apt ကနေတစ်ဆင့်သွင်းနိုင်ပါပြီခုလောလောဆယ်တော့ Python 3.10 ထိထွက်ထားပါပြီ
 
