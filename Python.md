@@ -1,6 +1,10 @@
 **Install Python**
 --
 
+2022-06-28 02:39:31 Tuesday
+
+---
+
  1. Ctrl + Alt + T နှိပ်ပြီး  Terminal ခေါ်ပါ။
 
 
